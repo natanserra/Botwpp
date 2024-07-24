@@ -9,3 +9,15 @@ Adiciona tratamento de erros para verificar a validade do número e capturar pos
 Função main:
 Solicita ao usuário que insira o número de telefone e a mensagem.
 Chama enviar_mensagem_imediata para enviar a mensagem.
+
+
+Passos de Uso
+Abra o Script:
+
+Coloque o código em um arquivo Python.
+Execute o Script:
+
+Execute o arquivo Python. O script pedirá para você inserir o número e a mensagem.
+Acompanhe o Envio:
+
+O script abrirá o WhatsApp Web e enviará a mensagem automaticamente.
