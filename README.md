@@ -9,8 +9,6 @@ Abra o terminal ou prompt de comando.
 
 Execute os seguintes comandos para instalar as bibliotecas necessárias:
 
-sh
-Copy code
 python -m pip install openpyxl pyperclip pyautogui
 Passo 2: Preparar o Arquivo Excel
 Crie ou obtenha um arquivo Excel: O arquivo deve ser no formato .xlsx e deve conter as seguintes colunas (em ordem):
@@ -45,9 +43,6 @@ Passo 4: Executar o Script
 Salve o Código: Salve o código Python em um arquivo com a extensão .py, por exemplo, automacao_whatsapp.py.
 
 Execute o Script: Abra o terminal ou prompt de comando, navegue até o diretório onde o script está salvo e execute:
-
-sh
-Copy code
 python automacao_whatsapp.py
 Acompanhe a Execução: O script começará a processar as informações do arquivo Excel e preencher os campos no aplicativo de destino. Acompanhe a execução para garantir que tudo esteja funcionando corretamente.
 
