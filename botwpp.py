@@ -23,7 +23,7 @@ def enviar_mensagem_imediata(numero, mensagem):
         if not validar_numero(numero):
             raise ValueError("Número de telefone inválido. Certifique-se de usar o formato correto.")
 
-        # Enviar a mensagem
+     
         kit.sendwhatmsg_instantly(numero, mensagem)
         print(f"Mensagem enviada imediatamente para {numero}.")
     
